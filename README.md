@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saksham Sharma</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
-![Coding Anime GIF](https://tenor.com/view/coding-anime-gif-24565564)
-
+![Uploading text-work.gif…]()
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anonymous096&label=Profile%20views&color=0e75b6&style=flat" alt="anonymous096" /> </p>
 
