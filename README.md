@@ -7,17 +7,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anonymous096&label=Profile%20views&color=0e75b6&style=flat" alt="anonymous096" /> </p>
 
-- 🔭 I’m currently working on **Improving AI models and creating SaaS solutions to help people**
+- 🔭 I’m currently working on
+  **Improving AI models and creating SaaS solutions to help people**
 
-- 🌱 I’m currently learning **Next Js and AI/ML**
+- 🌱 I’m currently learning
+  **Next Js and AI/ML**
 
-- 👯 I’m looking to collaborate on **Full Stack projects**
+- 👯 I’m looking to collaborate on
+  **Full Stack projects**
 
-- 💬 Ask me about **JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.**
+- 💬 Ask me about
+  **JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.**
 
-- 📫 How to reach me **sakshamasrofficial@gmail.com**
+- 📫 How to reach me
+  **sakshamasrofficial@gmail.com**
 
-- ⚡ Fun fact **I Love Shinchan**
+- ⚡ Fun fact
+  **I Love Shinchan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
