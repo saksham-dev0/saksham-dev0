@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saksham Sharma</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+![text-work](https://github.com/Anonymous096/Anonymous096/assets/116845679/bf0d99f8-5583-40b1-bd2b-ebb771492914)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anonymous096&label=Profile%20views&color=0e75b6&style=flat" alt="anonymous096" /> </p>
