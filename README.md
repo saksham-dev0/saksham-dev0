@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saksham Sharma</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/en-GB/view/data-code-coding-facts-numbers-gif-27290753”>
+<iframe src="https://giphy.com/embed/Ws6T5PN7wHv3cY8xy8" width="480" height="288" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nounish-dao-nouns-noggles-Ws6T5PN7wHv3cY8xy8">via GIPHY</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anonymous096&label=Profile%20views&color=0e75b6&style=flat" alt="anonymous096" /> </p>
 
