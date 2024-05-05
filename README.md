@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saksham Sharma</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ff1b5f32-9420-4dde-b2b9-ed2c0aa17459" width="500">
+<img align="right" alt="Coding" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ff1b5f32-9420-4dde-b2b9-ed2c0aa17459">
 
 
 
