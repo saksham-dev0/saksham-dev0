@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saksham Sharma</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://gist.github.com/patevs/b007a0e98fb216438d4cbf559fac4166](https://www.google.com/imgres?imgurl=https%3A%2F%2Fraw.githubusercontent.com%2Fgist%2Fpatevs%2Fb007a0e98fb216438d4cbf559fac4166%2Fraw%2F88f20c9d749d756be63f22b09f3c4ac570bc5101%2Fprogramming.gif&tbnid=ZHM55s2_Fz-GFM&vet=12ahUKEwi-6eCty_aFAxVhZmwGHVEcBkkQxiAoAnoECAAQNQ..i&imgrefurl=https%3A%2F%2Fgist.github.com%2Fpatevs%2Fb007a0e98fb216438d4cbf559fac4166&docid=bbkWxozKSUG_9M&w=1281&h=716&itg=1&q=coding%20gif&ved=2ahUKEwi-6eCty_aFAxVhZmwGHVEcBkkQxiAoAnoECAAQNQ)”>
+<img align="right" alt="Coding" width="400" src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anonymous096&label=Profile%20views&color=0e75b6&style=flat" alt="anonymous096" /> </p>
 
