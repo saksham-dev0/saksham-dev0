@@ -113,9 +113,9 @@ It streamlines payments, maintenance tracking, and real-time property insights t
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=imdewan&theme=dark&hide_border=false&background=0f0f0f&border=222222&ring=4f8ef7&fire=4f8ef7&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=aaaaaa&sideNums=ffffff&currStreakNum=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=saksham-dev0&theme=dark&hide_border=false&background=0f0f0f&border=222222&ring=4f8ef7&fire=4f8ef7&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=aaaaaa&sideNums=ffffff&currStreakNum=ffffff)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imdewan&theme=github_dark)](https://github.com/saksham-dev0)
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saksham-dev0&theme=github_dark)](https://github.com/saksham-dev0)
 
 </div>
 
