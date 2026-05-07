@@ -32,7 +32,7 @@ focus:
   - Full-stack product engineering
   - AI-powered automation systems for SMBs
 currently_building:
-  - Semolina AI · No-code AI agent builder for businesses (website scraping, customer support, appointment booking, future calling + WhatsApp automation)
+  - Semolina AI · No-code AI agent builder for businesses
   - Liveet · AI-powered Property Management system (PMS)
   - Semolina Voice · Lightweight TTS model & SDK ecosystem using VAPI
 previously:
@@ -53,7 +53,6 @@ previously:
 
 ### 🔊 LIVEET · PMS App
 Liveet is an AI-powered property management platform designed to simplify rental operations, tenant management, and property oversight for owners and managers.
-It streamlines payments, maintenance tracking, and real-time property insights to make managing real estate more efficient and scalable.
 
 `React Native` `Expo` `Property Management` `TypeScript` `Convex`
 
@@ -63,7 +62,7 @@ It streamlines payments, maintenance tracking, and real-time property insights t
 ### 💸 [Semolina AI](https://semolina.io)
  No-code AI agent builder for businesses (website scraping, customer support, appointment booking, future calling + WhatsApp automation)
 
-`React Native` `VAPI` `NEXT.js` `TypeScript` `Convex` `Monorepo`
+`NEXT.js` `VAPI` `DodoPayments` `TypeScript` `Convex` `Monorepo`
 
 </td>
 </tr>
