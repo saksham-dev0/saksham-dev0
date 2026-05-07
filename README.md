@@ -2,9 +2,9 @@
 
 <div align="center">
 
-# Dewan Shakil Akhtar
+# Saksham Sharma
 
-### Member of Technical Staff @ [Stellon Labs](https://stellonlabs.com) · YC S25
+### Founder @ [Semolina AI](https://semolina.io) 
 
 [![Website](https://img.shields.io/badge/imsaksham.dev-000000?style=flat-square&logo=safari&logoColor=white)](https://imsaksham.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/mrdsa04](https://www.linkedin.com/in/saksham-sharma-07656524b/))
