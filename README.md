@@ -54,7 +54,7 @@ previously:
 ### 🔊 LIVEET · PMS App
 Liveet is an AI-powered property management platform designed to simplify rental operations, tenant management, and property oversight for owners and managers.
 
-`React Native` `Expo` `Property Management` `TypeScript` `Convex`
+`React Native` `Property Management` `TypeScript` `Convex`
 
 </td>
 <td width="50%">
