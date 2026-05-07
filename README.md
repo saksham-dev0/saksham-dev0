@@ -1,47 +1,130 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
-<h1 align="center">Hi 👋, I'm Saksham Sharma</h1>
-<h3 align="center">A passionate Full-Stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ff1b5f32-9420-4dde-b2b9-ed2c0aa17459">
+<img src="[https://github.com/imdewan/imdewan/blob/main/vibing.gif?raw=true](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)" width="100%"/>
 
+<div align="center">
 
+# Dewan Shakil Akhtar
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saksham-dev0&label=Profile%20views&color=0e75b6&style=flat" alt="saksham-dev0" /> </p>
+### Member of Technical Staff @ [Stellon Labs](https://stellonlabs.com) · YC S25
 
-- 🔭 I’m currently working on <br>
-  **Improving AI models and creating SaaS solutions to help people**
+[![Website](https://img.shields.io/badge/imsaksham.dev-000000?style=flat-square&logo=safari&logoColor=white)](https://imsaksham.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/mrdsa04](https://www.linkedin.com/in/saksham-sharma-07656524b/))
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/code_saksham)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23610834/saksham-sharma)
 
-- 🌱 I’m currently learning <br>
-  **Next Js and AI/ML**
+![Profile Views](https://komarev.com/ghpvc/?username=imdewan&style=flat-square&color=1a1a2e&label=PROFILE+VIEWS)
 
-- 👯 I’m looking to collaborate on <br>
-  **Full Stack projects**
+</div>
 
-- 💬 Ask me about <br>
-  **JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.**
+<br/>
 
-- 📫 How to reach me <br>
-  **sakshamasrofficial@gmail.com**
+---
 
-- ⚡ Fun fact <br>
-  **I Love Shinchan**
+## `whoami`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/saksham83353428" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saksham83353428" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saksham-sharma-07656524b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saksham-sharma-07656524b" height="30" width="40" /></a>
-<a href="https://instagram.com/velocityvortex_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="velocityvortex_" height="30" width="40" /></a>
-<a href="https://medium.com/@sakshamasrofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sakshamasrofficial" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dev dynasty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dev dynasty" height="30" width="40" /></a>
-</p>
+```yaml
+name: Saksham Sharma
+role: Founder
+company: Relayys.ai — Bengaluru, IN
+location: All over the place =)
+focus:
+  - On-device & edge AI systems
+  - React Native SDK development
+  - Full-stack product engineering
+  - AI-powered automation systems for SMBs
+currently_building:
+  - Semolina AI · No-code AI agent builder for businesses (website scraping, customer support, appointment booking, future calling + WhatsApp automation)
+  - Liveet · AI-powered Property Management system (PMS)
+  - Semolina Voice · Lightweight TTS model & SDK ecosystem using VAPI
+previously:
+  - Founder & Builder @ Semolina AI
+  - GDSC Lead @ Google AI/ML Team
+  - AI/ML Engineer Apprentice @ Google India
+  - Freelance Full Stack Developer (5+ years)
+  - Built and scaled multiple AI SaaS products across chatbot, media, and automation sectors
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saksham-dev0&show_icons=true&locale=en&layout=compact" alt="saksham-dev0" /></p>
+## `~/projects`
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saksham-dev0&show_icons=true&locale=en" alt="saksham-dev0" /></p>
+<table>
+<tr>
+<td width="50%">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saksham-dev0&" alt="saksham-dev0" /></p>
+### 🔊 LIVEET · PMS App
+Liveet is an AI-powered property management platform designed to simplify rental operations, tenant management, and property oversight for owners and managers.
+It streamlines payments, maintenance tracking, and real-time property insights to make managing real estate more efficient and scalable.
 
-<h3 align="left">Support:</h3>
-<p><a href="[https://www.buymeacoffee.com/saksham069]"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="velocityvortex" /></a></p><br><br>
+`React Native` `Expo` `Property Management` `TypeScript` `Convex`
+
+</td>
+<td width="50%">
+
+### 💸 [Semolina AI](https://semolina.io)
+ No-code AI agent builder for businesses (website scraping, customer support, appointment booking, future calling + WhatsApp automation)
+
+`React Native` `VAPI` `NEXT.js` `TypeScript` `Convex` `Monorepo`
+
+</td>
+</tr>
+</table>
+
+---
+
+## `~/stack`
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+**Frameworks & Mobile**
+
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+**Cloud & DevOps**
+
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Databases & Backend-as-a-Service**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex-EE342F?style=flat-square&logo=convex&logoColor=white)
+
+---
+
+## `~/stats`
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=imdewan&theme=dark&hide_border=false&background=0f0f0f&border=222222&ring=4f8ef7&fire=4f8ef7&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=aaaaaa&sideNums=ffffff&currStreakNum=ffffff)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imdewan&theme=github_dark)](https://github.com/saksham-dev0)
+
+</div>
+
+---
+
+<div align="center">
+
+*it works on my device. literally. that's the whole point.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" width="100%"/>
+
+</div>
